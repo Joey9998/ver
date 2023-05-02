@@ -238,6 +238,9 @@ CHC家庭電影,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 博斯運動2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+愛爾達體育2台,rtmp://219.80.97.77/sat/md041
+ELEVEN體育1台,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 高爾夫台,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
