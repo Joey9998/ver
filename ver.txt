@@ -123,6 +123,7 @@ DiscoveryAsia,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571
 ELTA愛爾達影劇,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 🎦電影頻道,#genre#
 23V0608版,
+玩命關頭X,https://m3u.haiwaikan.com/xm3u8/378b8593530fd3748699d45fbbf5599d15942959d641644291ee7681b59e54f69921f11e97d0da21.m3u8
 龍祥時代,http://107.151.203.111:2209/135/hk.php?id=lxsdt
 龍祥時代,http://120.84.96.87:808/hls/35/index.m3u8
 衛視電影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
